@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\Aulas C#\exIdade18\bin\Debug\netcoreapp2.1\exIdade18.deps.json
+C:\Users\46791749865\Desktop\Aulas C#\exIdade18\bin\Debug\netcoreapp2.1\exIdade18.runtimeconfig.json
+C:\Users\46791749865\Desktop\Aulas C#\exIdade18\bin\Debug\netcoreapp2.1\exIdade18.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\Aulas C#\exIdade18\bin\Debug\netcoreapp2.1\exIdade18.dll
+C:\Users\46791749865\Desktop\Aulas C#\exIdade18\bin\Debug\netcoreapp2.1\exIdade18.pdb
+C:\Users\46791749865\Desktop\Aulas C#\exIdade18\obj\Debug\netcoreapp2.1\exIdade18.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\Aulas C#\exIdade18\obj\Debug\netcoreapp2.1\exIdade18.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exIdade18\obj\Debug\netcoreapp2.1\exIdade18.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exIdade18\obj\Debug\netcoreapp2.1\exIdade18.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\Aulas C#\exIdade18\obj\Debug\netcoreapp2.1\exIdade18.dll
+C:\Users\46791749865\Desktop\Aulas C#\exIdade18\obj\Debug\netcoreapp2.1\exIdade18.pdb

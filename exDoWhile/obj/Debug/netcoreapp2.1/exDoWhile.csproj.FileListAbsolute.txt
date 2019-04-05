@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\Aulas C#\exDoWhile\bin\Debug\netcoreapp2.1\exDoWhile.deps.json
+C:\Users\46791749865\Desktop\Aulas C#\exDoWhile\bin\Debug\netcoreapp2.1\exDoWhile.runtimeconfig.json
+C:\Users\46791749865\Desktop\Aulas C#\exDoWhile\bin\Debug\netcoreapp2.1\exDoWhile.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\Aulas C#\exDoWhile\bin\Debug\netcoreapp2.1\exDoWhile.dll
+C:\Users\46791749865\Desktop\Aulas C#\exDoWhile\bin\Debug\netcoreapp2.1\exDoWhile.pdb
+C:\Users\46791749865\Desktop\Aulas C#\exDoWhile\obj\Debug\netcoreapp2.1\exDoWhile.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\Aulas C#\exDoWhile\obj\Debug\netcoreapp2.1\exDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exDoWhile\obj\Debug\netcoreapp2.1\exDoWhile.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exDoWhile\obj\Debug\netcoreapp2.1\exDoWhile.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\Aulas C#\exDoWhile\obj\Debug\netcoreapp2.1\exDoWhile.dll
+C:\Users\46791749865\Desktop\Aulas C#\exDoWhile\obj\Debug\netcoreapp2.1\exDoWhile.pdb

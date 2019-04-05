@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\Aulas C#\JOGO\obj\Debug\netcoreapp2.1\JOGO.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\Aulas C#\JOGO\obj\Debug\netcoreapp2.1\JOGO.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\JOGO\obj\Debug\netcoreapp2.1\JOGO.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\JOGO\obj\Debug\netcoreapp2.1\JOGO.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\Aulas C#\JOGO\bin\Debug\netcoreapp2.1\JOGO.deps.json
+C:\Users\46791749865\Desktop\Aulas C#\JOGO\bin\Debug\netcoreapp2.1\JOGO.runtimeconfig.json
+C:\Users\46791749865\Desktop\Aulas C#\JOGO\bin\Debug\netcoreapp2.1\JOGO.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\Aulas C#\JOGO\bin\Debug\netcoreapp2.1\JOGO.dll
+C:\Users\46791749865\Desktop\Aulas C#\JOGO\bin\Debug\netcoreapp2.1\JOGO.pdb
+C:\Users\46791749865\Desktop\Aulas C#\JOGO\obj\Debug\netcoreapp2.1\JOGO.dll
+C:\Users\46791749865\Desktop\Aulas C#\JOGO\obj\Debug\netcoreapp2.1\JOGO.pdb

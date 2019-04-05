@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\Aulas C#\exNomeDoMes\obj\Debug\netcoreapp2.1\exNomeDoMes.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\Aulas C#\exNomeDoMes\obj\Debug\netcoreapp2.1\exNomeDoMes.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exNomeDoMes\obj\Debug\netcoreapp2.1\exNomeDoMes.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exNomeDoMes\obj\Debug\netcoreapp2.1\exNomeDoMes.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\Aulas C#\exNomeDoMes\bin\Debug\netcoreapp2.1\exNomeDoMes.deps.json
+C:\Users\46791749865\Desktop\Aulas C#\exNomeDoMes\bin\Debug\netcoreapp2.1\exNomeDoMes.runtimeconfig.json
+C:\Users\46791749865\Desktop\Aulas C#\exNomeDoMes\bin\Debug\netcoreapp2.1\exNomeDoMes.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\Aulas C#\exNomeDoMes\bin\Debug\netcoreapp2.1\exNomeDoMes.dll
+C:\Users\46791749865\Desktop\Aulas C#\exNomeDoMes\bin\Debug\netcoreapp2.1\exNomeDoMes.pdb
+C:\Users\46791749865\Desktop\Aulas C#\exNomeDoMes\obj\Debug\netcoreapp2.1\exNomeDoMes.dll
+C:\Users\46791749865\Desktop\Aulas C#\exNomeDoMes\obj\Debug\netcoreapp2.1\exNomeDoMes.pdb

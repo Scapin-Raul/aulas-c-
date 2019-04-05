@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\Aulas C#\exEstrela\bin\Debug\netcoreapp2.1\exEstrela.deps.json
+C:\Users\46791749865\Desktop\Aulas C#\exEstrela\bin\Debug\netcoreapp2.1\exEstrela.runtimeconfig.json
+C:\Users\46791749865\Desktop\Aulas C#\exEstrela\bin\Debug\netcoreapp2.1\exEstrela.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\Aulas C#\exEstrela\bin\Debug\netcoreapp2.1\exEstrela.dll
+C:\Users\46791749865\Desktop\Aulas C#\exEstrela\bin\Debug\netcoreapp2.1\exEstrela.pdb
+C:\Users\46791749865\Desktop\Aulas C#\exEstrela\obj\Debug\netcoreapp2.1\exEstrela.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\Aulas C#\exEstrela\obj\Debug\netcoreapp2.1\exEstrela.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exEstrela\obj\Debug\netcoreapp2.1\exEstrela.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exEstrela\obj\Debug\netcoreapp2.1\exEstrela.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\Aulas C#\exEstrela\obj\Debug\netcoreapp2.1\exEstrela.dll
+C:\Users\46791749865\Desktop\Aulas C#\exEstrela\obj\Debug\netcoreapp2.1\exEstrela.pdb

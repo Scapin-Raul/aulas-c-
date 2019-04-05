@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\Aulas C#\ex2media\bin\Debug\netcoreapp2.1\ex2media.deps.json
+C:\Users\46791749865\Desktop\Aulas C#\ex2media\bin\Debug\netcoreapp2.1\ex2media.runtimeconfig.json
+C:\Users\46791749865\Desktop\Aulas C#\ex2media\bin\Debug\netcoreapp2.1\ex2media.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\Aulas C#\ex2media\bin\Debug\netcoreapp2.1\ex2media.dll
+C:\Users\46791749865\Desktop\Aulas C#\ex2media\bin\Debug\netcoreapp2.1\ex2media.pdb
+C:\Users\46791749865\Desktop\Aulas C#\ex2media\obj\Debug\netcoreapp2.1\ex2media.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\Aulas C#\ex2media\obj\Debug\netcoreapp2.1\ex2media.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\ex2media\obj\Debug\netcoreapp2.1\ex2media.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\ex2media\obj\Debug\netcoreapp2.1\ex2media.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\Aulas C#\ex2media\obj\Debug\netcoreapp2.1\ex2media.dll
+C:\Users\46791749865\Desktop\Aulas C#\ex2media\obj\Debug\netcoreapp2.1\ex2media.pdb

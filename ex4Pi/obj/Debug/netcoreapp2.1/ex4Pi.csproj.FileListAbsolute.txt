@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\Aulas C#\ex4Pi\obj\Debug\netcoreapp2.1\ex4Pi.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\Aulas C#\ex4Pi\obj\Debug\netcoreapp2.1\ex4Pi.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\ex4Pi\obj\Debug\netcoreapp2.1\ex4Pi.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\ex4Pi\obj\Debug\netcoreapp2.1\ex4Pi.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\Aulas C#\ex4Pi\bin\Debug\netcoreapp2.1\ex4Pi.deps.json
+C:\Users\46791749865\Desktop\Aulas C#\ex4Pi\bin\Debug\netcoreapp2.1\ex4Pi.runtimeconfig.json
+C:\Users\46791749865\Desktop\Aulas C#\ex4Pi\bin\Debug\netcoreapp2.1\ex4Pi.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\Aulas C#\ex4Pi\bin\Debug\netcoreapp2.1\ex4Pi.dll
+C:\Users\46791749865\Desktop\Aulas C#\ex4Pi\bin\Debug\netcoreapp2.1\ex4Pi.pdb
+C:\Users\46791749865\Desktop\Aulas C#\ex4Pi\obj\Debug\netcoreapp2.1\ex4Pi.dll
+C:\Users\46791749865\Desktop\Aulas C#\ex4Pi\obj\Debug\netcoreapp2.1\ex4Pi.pdb

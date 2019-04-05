@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\Aulas C#\exContador\bin\Debug\netcoreapp2.1\exContador.deps.json
+C:\Users\46791749865\Desktop\Aulas C#\exContador\bin\Debug\netcoreapp2.1\exContador.runtimeconfig.json
+C:\Users\46791749865\Desktop\Aulas C#\exContador\bin\Debug\netcoreapp2.1\exContador.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\Aulas C#\exContador\bin\Debug\netcoreapp2.1\exContador.dll
+C:\Users\46791749865\Desktop\Aulas C#\exContador\bin\Debug\netcoreapp2.1\exContador.pdb
+C:\Users\46791749865\Desktop\Aulas C#\exContador\obj\Debug\netcoreapp2.1\exContador.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\Aulas C#\exContador\obj\Debug\netcoreapp2.1\exContador.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exContador\obj\Debug\netcoreapp2.1\exContador.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exContador\obj\Debug\netcoreapp2.1\exContador.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\Aulas C#\exContador\obj\Debug\netcoreapp2.1\exContador.dll
+C:\Users\46791749865\Desktop\Aulas C#\exContador\obj\Debug\netcoreapp2.1\exContador.pdb

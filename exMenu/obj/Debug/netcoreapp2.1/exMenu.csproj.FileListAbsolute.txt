@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\Aulas C#\exMenu\bin\Debug\netcoreapp2.1\exMenu.deps.json
+C:\Users\46791749865\Desktop\Aulas C#\exMenu\bin\Debug\netcoreapp2.1\exMenu.runtimeconfig.json
+C:\Users\46791749865\Desktop\Aulas C#\exMenu\bin\Debug\netcoreapp2.1\exMenu.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\Aulas C#\exMenu\bin\Debug\netcoreapp2.1\exMenu.dll
+C:\Users\46791749865\Desktop\Aulas C#\exMenu\bin\Debug\netcoreapp2.1\exMenu.pdb
+C:\Users\46791749865\Desktop\Aulas C#\exMenu\obj\Debug\netcoreapp2.1\exMenu.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\Aulas C#\exMenu\obj\Debug\netcoreapp2.1\exMenu.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exMenu\obj\Debug\netcoreapp2.1\exMenu.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exMenu\obj\Debug\netcoreapp2.1\exMenu.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\Aulas C#\exMenu\obj\Debug\netcoreapp2.1\exMenu.dll
+C:\Users\46791749865\Desktop\Aulas C#\exMenu\obj\Debug\netcoreapp2.1\exMenu.pdb

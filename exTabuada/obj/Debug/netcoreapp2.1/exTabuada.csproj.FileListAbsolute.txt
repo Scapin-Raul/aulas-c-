@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\Aulas C#\exTabuada\bin\Debug\netcoreapp2.1\exTabuada.deps.json
+C:\Users\46791749865\Desktop\Aulas C#\exTabuada\bin\Debug\netcoreapp2.1\exTabuada.runtimeconfig.json
+C:\Users\46791749865\Desktop\Aulas C#\exTabuada\bin\Debug\netcoreapp2.1\exTabuada.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\Aulas C#\exTabuada\bin\Debug\netcoreapp2.1\exTabuada.dll
+C:\Users\46791749865\Desktop\Aulas C#\exTabuada\bin\Debug\netcoreapp2.1\exTabuada.pdb
+C:\Users\46791749865\Desktop\Aulas C#\exTabuada\obj\Debug\netcoreapp2.1\exTabuada.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\Aulas C#\exTabuada\obj\Debug\netcoreapp2.1\exTabuada.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exTabuada\obj\Debug\netcoreapp2.1\exTabuada.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\Aulas C#\exTabuada\obj\Debug\netcoreapp2.1\exTabuada.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\Aulas C#\exTabuada\obj\Debug\netcoreapp2.1\exTabuada.dll
+C:\Users\46791749865\Desktop\Aulas C#\exTabuada\obj\Debug\netcoreapp2.1\exTabuada.pdb
