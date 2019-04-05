@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\aulas-c-\exArvoreNatal\bin\Debug\netcoreapp2.1\exArvoreNatal.deps.json
+C:\Users\46791749865\Desktop\aulas-c-\exArvoreNatal\bin\Debug\netcoreapp2.1\exArvoreNatal.runtimeconfig.json
+C:\Users\46791749865\Desktop\aulas-c-\exArvoreNatal\bin\Debug\netcoreapp2.1\exArvoreNatal.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\aulas-c-\exArvoreNatal\bin\Debug\netcoreapp2.1\exArvoreNatal.dll
+C:\Users\46791749865\Desktop\aulas-c-\exArvoreNatal\bin\Debug\netcoreapp2.1\exArvoreNatal.pdb
+C:\Users\46791749865\Desktop\aulas-c-\exArvoreNatal\obj\Debug\netcoreapp2.1\exArvoreNatal.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\aulas-c-\exArvoreNatal\obj\Debug\netcoreapp2.1\exArvoreNatal.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exArvoreNatal\obj\Debug\netcoreapp2.1\exArvoreNatal.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exArvoreNatal\obj\Debug\netcoreapp2.1\exArvoreNatal.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\aulas-c-\exArvoreNatal\obj\Debug\netcoreapp2.1\exArvoreNatal.dll
+C:\Users\46791749865\Desktop\aulas-c-\exArvoreNatal\obj\Debug\netcoreapp2.1\exArvoreNatal.pdb

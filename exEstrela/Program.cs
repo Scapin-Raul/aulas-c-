@@ -15,6 +15,7 @@ namespace exEstrela
             for(int i =0; i<numeroBase; i++){
                 asterisco+="*";
                 System.Console.WriteLine(asterisco);
+                System.Threading.Thread.Sleep(75);
             }
         }
     }
