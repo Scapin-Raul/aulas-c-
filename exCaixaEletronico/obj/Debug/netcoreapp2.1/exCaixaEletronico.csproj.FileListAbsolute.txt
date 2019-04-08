@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\aulas-c-\exCaixaEletronico\obj\Debug\netcoreapp2.1\exCaixaEletronico.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\aulas-c-\exCaixaEletronico\obj\Debug\netcoreapp2.1\exCaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exCaixaEletronico\obj\Debug\netcoreapp2.1\exCaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exCaixaEletronico\obj\Debug\netcoreapp2.1\exCaixaEletronico.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\aulas-c-\exCaixaEletronico\bin\Debug\netcoreapp2.1\exCaixaEletronico.deps.json
+C:\Users\46791749865\Desktop\aulas-c-\exCaixaEletronico\bin\Debug\netcoreapp2.1\exCaixaEletronico.runtimeconfig.json
+C:\Users\46791749865\Desktop\aulas-c-\exCaixaEletronico\bin\Debug\netcoreapp2.1\exCaixaEletronico.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\aulas-c-\exCaixaEletronico\bin\Debug\netcoreapp2.1\exCaixaEletronico.dll
+C:\Users\46791749865\Desktop\aulas-c-\exCaixaEletronico\bin\Debug\netcoreapp2.1\exCaixaEletronico.pdb
+C:\Users\46791749865\Desktop\aulas-c-\exCaixaEletronico\obj\Debug\netcoreapp2.1\exCaixaEletronico.dll
+C:\Users\46791749865\Desktop\aulas-c-\exCaixaEletronico\obj\Debug\netcoreapp2.1\exCaixaEletronico.pdb

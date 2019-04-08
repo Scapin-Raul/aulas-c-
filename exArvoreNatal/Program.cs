@@ -6,20 +6,19 @@ namespace exArvoreNatal
     {
         static void Main(string[] args)
         {
-            int altura = 8;
-            int colunas =8;
             string estrela = "";
-            for (int i = 0; i <= altura; i++) {
+            System.Console.WriteLine("Escolha a quantidade de altura e de colunas, respectivamente:");
+            int altura = int.Parse(Console.ReadLine());
+            int colunas = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= altura; i++) {
                 estrela = "";
-                for (int j = 0; j <= colunas; j++)
+                for (int j = 1; j <= colunas; j++)
                 {
-                    // System.Console.WriteLine($"[{i},{j}]");
                     estrela+="*";
                     System.Console.WriteLine(estrela);
-                    System.Threading.Thread.Sleep(75);
-                }
-                
-            }
+                    System.Threading.Thread.Sleep(50);
+                } // fim for interno
+            }//fim for externo
         }
     }
 }

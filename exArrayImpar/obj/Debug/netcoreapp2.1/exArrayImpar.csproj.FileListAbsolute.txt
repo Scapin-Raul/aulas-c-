@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\aulas-c-\exArrayImpar\obj\Debug\netcoreapp2.1\exArrayImpar.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\aulas-c-\exArrayImpar\obj\Debug\netcoreapp2.1\exArrayImpar.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exArrayImpar\obj\Debug\netcoreapp2.1\exArrayImpar.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exArrayImpar\obj\Debug\netcoreapp2.1\exArrayImpar.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\aulas-c-\exArrayImpar\bin\Debug\netcoreapp2.1\exArrayImpar.deps.json
+C:\Users\46791749865\Desktop\aulas-c-\exArrayImpar\bin\Debug\netcoreapp2.1\exArrayImpar.runtimeconfig.json
+C:\Users\46791749865\Desktop\aulas-c-\exArrayImpar\bin\Debug\netcoreapp2.1\exArrayImpar.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\aulas-c-\exArrayImpar\bin\Debug\netcoreapp2.1\exArrayImpar.dll
+C:\Users\46791749865\Desktop\aulas-c-\exArrayImpar\bin\Debug\netcoreapp2.1\exArrayImpar.pdb
+C:\Users\46791749865\Desktop\aulas-c-\exArrayImpar\obj\Debug\netcoreapp2.1\exArrayImpar.dll
+C:\Users\46791749865\Desktop\aulas-c-\exArrayImpar\obj\Debug\netcoreapp2.1\exArrayImpar.pdb

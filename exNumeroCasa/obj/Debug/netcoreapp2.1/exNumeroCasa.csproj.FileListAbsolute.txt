@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\aulas-c-\exNumeroCasa\bin\Debug\netcoreapp2.1\exNumeroCasa.deps.json
+C:\Users\46791749865\Desktop\aulas-c-\exNumeroCasa\bin\Debug\netcoreapp2.1\exNumeroCasa.runtimeconfig.json
+C:\Users\46791749865\Desktop\aulas-c-\exNumeroCasa\bin\Debug\netcoreapp2.1\exNumeroCasa.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\aulas-c-\exNumeroCasa\bin\Debug\netcoreapp2.1\exNumeroCasa.dll
+C:\Users\46791749865\Desktop\aulas-c-\exNumeroCasa\bin\Debug\netcoreapp2.1\exNumeroCasa.pdb
+C:\Users\46791749865\Desktop\aulas-c-\exNumeroCasa\obj\Debug\netcoreapp2.1\exNumeroCasa.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\aulas-c-\exNumeroCasa\obj\Debug\netcoreapp2.1\exNumeroCasa.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exNumeroCasa\obj\Debug\netcoreapp2.1\exNumeroCasa.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exNumeroCasa\obj\Debug\netcoreapp2.1\exNumeroCasa.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\aulas-c-\exNumeroCasa\obj\Debug\netcoreapp2.1\exNumeroCasa.dll
+C:\Users\46791749865\Desktop\aulas-c-\exNumeroCasa\obj\Debug\netcoreapp2.1\exNumeroCasa.pdb
