@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\aulas-c-\exPassagemAviao\bin\Debug\netcoreapp2.1\exPassagemAviao.deps.json
+C:\Users\46791749865\Desktop\aulas-c-\exPassagemAviao\bin\Debug\netcoreapp2.1\exPassagemAviao.runtimeconfig.json
+C:\Users\46791749865\Desktop\aulas-c-\exPassagemAviao\bin\Debug\netcoreapp2.1\exPassagemAviao.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\aulas-c-\exPassagemAviao\bin\Debug\netcoreapp2.1\exPassagemAviao.dll
+C:\Users\46791749865\Desktop\aulas-c-\exPassagemAviao\bin\Debug\netcoreapp2.1\exPassagemAviao.pdb
+C:\Users\46791749865\Desktop\aulas-c-\exPassagemAviao\obj\Debug\netcoreapp2.1\exPassagemAviao.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\aulas-c-\exPassagemAviao\obj\Debug\netcoreapp2.1\exPassagemAviao.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exPassagemAviao\obj\Debug\netcoreapp2.1\exPassagemAviao.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exPassagemAviao\obj\Debug\netcoreapp2.1\exPassagemAviao.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\aulas-c-\exPassagemAviao\obj\Debug\netcoreapp2.1\exPassagemAviao.dll
+C:\Users\46791749865\Desktop\aulas-c-\exPassagemAviao\obj\Debug\netcoreapp2.1\exPassagemAviao.pdb
