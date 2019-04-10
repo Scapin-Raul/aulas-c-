@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\aulas-c-\testeMatriz\bin\Debug\netcoreapp2.1\testeMatriz.deps.json
+C:\Users\46791749865\Desktop\aulas-c-\testeMatriz\bin\Debug\netcoreapp2.1\testeMatriz.runtimeconfig.json
+C:\Users\46791749865\Desktop\aulas-c-\testeMatriz\bin\Debug\netcoreapp2.1\testeMatriz.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\aulas-c-\testeMatriz\bin\Debug\netcoreapp2.1\testeMatriz.dll
+C:\Users\46791749865\Desktop\aulas-c-\testeMatriz\bin\Debug\netcoreapp2.1\testeMatriz.pdb
+C:\Users\46791749865\Desktop\aulas-c-\testeMatriz\obj\Debug\netcoreapp2.1\testeMatriz.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\aulas-c-\testeMatriz\obj\Debug\netcoreapp2.1\testeMatriz.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\testeMatriz\obj\Debug\netcoreapp2.1\testeMatriz.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\testeMatriz\obj\Debug\netcoreapp2.1\testeMatriz.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\aulas-c-\testeMatriz\obj\Debug\netcoreapp2.1\testeMatriz.dll
+C:\Users\46791749865\Desktop\aulas-c-\testeMatriz\obj\Debug\netcoreapp2.1\testeMatriz.pdb
