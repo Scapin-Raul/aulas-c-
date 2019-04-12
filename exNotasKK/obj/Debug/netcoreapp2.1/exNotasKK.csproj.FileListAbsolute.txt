@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\aulas-c-\exNotasKK\bin\Debug\netcoreapp2.1\exNotasKK.deps.json
+C:\Users\46791749865\Desktop\aulas-c-\exNotasKK\bin\Debug\netcoreapp2.1\exNotasKK.runtimeconfig.json
+C:\Users\46791749865\Desktop\aulas-c-\exNotasKK\bin\Debug\netcoreapp2.1\exNotasKK.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\aulas-c-\exNotasKK\bin\Debug\netcoreapp2.1\exNotasKK.dll
+C:\Users\46791749865\Desktop\aulas-c-\exNotasKK\bin\Debug\netcoreapp2.1\exNotasKK.pdb
+C:\Users\46791749865\Desktop\aulas-c-\exNotasKK\obj\Debug\netcoreapp2.1\exNotasKK.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\aulas-c-\exNotasKK\obj\Debug\netcoreapp2.1\exNotasKK.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exNotasKK\obj\Debug\netcoreapp2.1\exNotasKK.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exNotasKK\obj\Debug\netcoreapp2.1\exNotasKK.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\aulas-c-\exNotasKK\obj\Debug\netcoreapp2.1\exNotasKK.dll
+C:\Users\46791749865\Desktop\aulas-c-\exNotasKK\obj\Debug\netcoreapp2.1\exNotasKK.pdb

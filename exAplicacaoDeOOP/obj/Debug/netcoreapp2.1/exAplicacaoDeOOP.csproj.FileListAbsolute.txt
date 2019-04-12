@@ -1,0 +1,11 @@
+C:\Users\46791749865\Desktop\aulas-c-\exAplicacaoDeOOP\bin\Debug\netcoreapp2.1\exAplicacaoDeOOP.deps.json
+C:\Users\46791749865\Desktop\aulas-c-\exAplicacaoDeOOP\bin\Debug\netcoreapp2.1\exAplicacaoDeOOP.runtimeconfig.json
+C:\Users\46791749865\Desktop\aulas-c-\exAplicacaoDeOOP\bin\Debug\netcoreapp2.1\exAplicacaoDeOOP.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\aulas-c-\exAplicacaoDeOOP\bin\Debug\netcoreapp2.1\exAplicacaoDeOOP.dll
+C:\Users\46791749865\Desktop\aulas-c-\exAplicacaoDeOOP\bin\Debug\netcoreapp2.1\exAplicacaoDeOOP.pdb
+C:\Users\46791749865\Desktop\aulas-c-\exAplicacaoDeOOP\obj\Debug\netcoreapp2.1\exAplicacaoDeOOP.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\aulas-c-\exAplicacaoDeOOP\obj\Debug\netcoreapp2.1\exAplicacaoDeOOP.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exAplicacaoDeOOP\obj\Debug\netcoreapp2.1\exAplicacaoDeOOP.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\aulas-c-\exAplicacaoDeOOP\obj\Debug\netcoreapp2.1\exAplicacaoDeOOP.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\aulas-c-\exAplicacaoDeOOP\obj\Debug\netcoreapp2.1\exAplicacaoDeOOP.dll
+C:\Users\46791749865\Desktop\aulas-c-\exAplicacaoDeOOP\obj\Debug\netcoreapp2.1\exAplicacaoDeOOP.pdb
