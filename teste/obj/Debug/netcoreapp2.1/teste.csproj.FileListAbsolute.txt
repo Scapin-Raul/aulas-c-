@@ -9,3 +9,14 @@ C:\Users\46791749865\Desktop\aulas-c-\teste\obj\Debug\netcoreapp2.1\teste.Assemb
 C:\Users\46791749865\Desktop\aulas-c-\teste\obj\Debug\netcoreapp2.1\teste.AssemblyInfo.cs
 C:\Users\46791749865\Desktop\aulas-c-\teste\obj\Debug\netcoreapp2.1\teste.dll
 C:\Users\46791749865\Desktop\aulas-c-\teste\obj\Debug\netcoreapp2.1\teste.pdb
+C:\Users\User\Desktop\Raul\aulas-c-\teste\bin\Debug\netcoreapp2.1\teste.deps.json
+C:\Users\User\Desktop\Raul\aulas-c-\teste\bin\Debug\netcoreapp2.1\teste.runtimeconfig.json
+C:\Users\User\Desktop\Raul\aulas-c-\teste\bin\Debug\netcoreapp2.1\teste.runtimeconfig.dev.json
+C:\Users\User\Desktop\Raul\aulas-c-\teste\bin\Debug\netcoreapp2.1\teste.dll
+C:\Users\User\Desktop\Raul\aulas-c-\teste\bin\Debug\netcoreapp2.1\teste.pdb
+C:\Users\User\Desktop\Raul\aulas-c-\teste\obj\Debug\netcoreapp2.1\teste.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Raul\aulas-c-\teste\obj\Debug\netcoreapp2.1\teste.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Raul\aulas-c-\teste\obj\Debug\netcoreapp2.1\teste.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Raul\aulas-c-\teste\obj\Debug\netcoreapp2.1\teste.AssemblyInfo.cs
+C:\Users\User\Desktop\Raul\aulas-c-\teste\obj\Debug\netcoreapp2.1\teste.dll
+C:\Users\User\Desktop\Raul\aulas-c-\teste\obj\Debug\netcoreapp2.1\teste.pdb
