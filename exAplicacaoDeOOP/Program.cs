@@ -53,9 +53,6 @@ namespace exAplicacaoDeOOP
                     break;
 
 
-
-
-
                     case 0:
                         System.Console.WriteLine("Agradecemos a preferência...");
                         sair = true;
